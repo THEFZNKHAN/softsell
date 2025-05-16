@@ -241,3 +241,6 @@ SoftSell is a single-page marketing website built with Next.js and Tailwind CSS.
   yarn build
   yarn start
   ```
+
+## 🌐 Live App
+You can visit [SoftSell](https://soft-sell-pied.vercel.app) for the Live App.
